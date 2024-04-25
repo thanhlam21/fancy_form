@@ -1,0 +1,91 @@
+{
+  "rates": [
+    {
+      "bank": "VIETCOM",
+      "brand": "",
+      "updated": 1579484760000,
+      "date": "20200120",
+      "version": "1",
+      "value": [
+        {
+          "buy": "0.00",
+          "order": "0",
+          "name": "DKK",
+          "sell": "3,378.00",
+          "transfer": "0.00",
+          "id": "26772129",
+          "day": "20200120",
+          "code": "DKK"
+        },
+        {
+          "buy": "23,075.00",
+          "order": "0",
+          "name": "USD",
+          "sell": "23,105.00",
+          "transfer": "23,075.00",
+          "id": "26771693",
+          "day": "20200120",
+          "code": "USD"
+        },
+        {
+          "buy": "25,309.59",
+          "order": "1",
+          "name": "EUR",
+          "sell": "25,565.24",
+          "transfer": "25,309.59",
+          "id": "26772130",
+          "day": "20200120",
+          "code": "EUR"
+        },
+        {
+          "buy": "16,800.00",
+          "order": "0",
+          "name": "AUD",
+          "sell": "16,900.00",
+          "transfer": "16,800.00",
+          "id": "26772131",
+          "day": "20200120",
+          "code": "AUD"
+        },
+        {
+          "buy": "16,500.00",
+          "order": "0",
+          "name": "CAD",
+          "sell": "16,700.00",
+          "transfer": "16,500.00",
+          "id": "26772132",
+          "day": "20200120",
+          "code": "CAD"
+        },
+        {
+          "buy": "16,400.00",
+          "order": "0",
+          "name": "CHF",
+          "sell": "16,600.00",
+          "transfer": "16,400.00",
+          "id": "26772133",
+          "day": "20200120",
+          "code": "CHF"
+        },
+        {
+          "buy": "2,050.00",
+          "order": "0",
+          "name": "JPY",
+          "sell": "2,100.00",
+          "transfer": "2,050.00",
+          "id": "26772134",
+          "day": "20200120",
+          "code": "JPY"
+        }
+      ],
+      "order": "0"
+    }
+  ],
+  "golds": [],
+  "time": 4,
+  "excute1_time": 4,
+  "excute2_time": 0,
+  "excute3_time": 0,
+  "count1": 18,
+  "count2": 0
+}
